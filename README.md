@@ -1,4 +1,4 @@
-# Final-project-Machine-Learning
+# Final-project-Machine-Learning- Attrition 
 As my first venture into machine learning, I embarked on a project to tackle the issue of employee attrition using IBM’s dataset. This project has been a valuable learning experience, allowing me to apply data science techniques to real-world problems and gain insights into factors affecting employee retention.
 
 ## Project Description
