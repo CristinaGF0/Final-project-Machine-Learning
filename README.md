@@ -1,6 +1,12 @@
 # Final-project-Machine-Learning- Attrition 
 As my first venture into machine learning, I embarked on a project to tackle the issue of employee attrition using IBM’s dataset. This project has been a valuable learning experience, allowing me to apply data science techniques to real-world problems and gain insights into factors affecting employee retention.
 
+
+![como-elaborar-un-plan-de-trabajo-de-recursos-humanos-eficaz](https://github.com/user-attachments/assets/7a4fa63f-3a1a-4833-9c35-279812da299a)
+
+
+
+
 ## Project Description
 The goal of this project is to predict employee attrition by applying machine learning techniques to a dataset provided by IBM. By analyzing this data, the project aims to identify key factors influencing employee turnover and develop actionable strategies to improve retention and reduce attrition within organizations.
 
@@ -24,3 +30,4 @@ This notebook addresses advanced steps including feature engineering to create n
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Smote
